@@ -56,7 +56,7 @@ Tortise SVN - https://tortoisesvn.net/downloads.html
 + DoubleComander - https://sourceforge.net/p/doublecmd/wiki/Download/
 + Greenshot - http://getgreenshot.org/downloads/
 + Cmder - http://cmder.net/ (settings in repo)
-+ ~~ComEmu https://www.fosshub.com/ConEmu.html lub lepiej Cmder (http://cmder.net/)~~
++ ~~ComEmu https://www.fosshub.com/ConEmu.html~~
 
 ## Developer programs
 
