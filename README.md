@@ -16,7 +16,7 @@ Extensions:
 
 + StyleCop -  https://stylecop.codeplex.com/
 
-~~+ MultiEdit https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MultiEditMode~~
++ ~~MultiEdit https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MultiEditMode~~
 
 + Hot Commands -  https://marketplace.visualstudio.com/items?itemName=JustinClareburtMSFT.HotCommandsforVisualStudio. More info here: https://www.youtube.com/watch?v=S0FLelvzAIE
 
@@ -41,7 +41,6 @@ Tortise SVN - https://tortoisesvn.net/downloads.html
 		Extensions:
 		+	AdBlock
 		+	LastPass
-		~~+	XMarks~~
 		+	EasyReader
 
 
@@ -56,8 +55,8 @@ Tortise SVN - https://tortoisesvn.net/downloads.html
 + VisualStudioCode - https://code.visualstudio.com/
 + DoubleComander - https://sourceforge.net/p/doublecmd/wiki/Download/
 + Greenshot - http://getgreenshot.org/downloads/
-+ Cmder http://cmder.net/ (settings in repo)
-~~+ ComEmu https://www.fosshub.com/ConEmu.html lub lepiej Cmder (http://cmder.net/)~~
++ Cmder - http://cmder.net/ (settings in repo)
++ ~~ComEmu https://www.fosshub.com/ConEmu.html lub lepiej Cmder (http://cmder.net/)~~
 
 ## Developer programs
 
