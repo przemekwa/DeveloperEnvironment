@@ -11,4 +11,6 @@
 :: you can add your plugins to the cmder path like so
 :: set "PATH=%CMDER_ROOT%\vendor\whatever;%PATH%"
 
+set "PATH=%GIT_INSTALL_ROOT%\usr\bin;%PATH%"
+
 @echo off
