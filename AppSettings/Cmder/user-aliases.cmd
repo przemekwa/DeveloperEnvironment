@@ -24,6 +24,7 @@ user = "C:\Program Files\Notepad++\notepad++.exe" "D:\Program Files\cmder\config
 selgros = "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\devenv.exe" "D:\Projects\Selgros\PG\trunk\SelgrosPG.sln"
 imagebank = "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\devenv.exe" "D:\Projects\imagebank\trunk\ImageBank\ImageBank.sln"
 zasp = "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\devenv.exe" "D:\Projects\ZASP_APP\ZASP_APP.sln"
+zaspg = cd "D:\Projects\ZASP_APP"
 study = "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\devenv.exe" "D:\Projects\ProgramingStudy\ProgramingStudy\ProgramingStudy.sln"
 dev = cd "D:\Projects\DeveloperEnvironment\"
 ssms = "C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\Ssms.exe"
