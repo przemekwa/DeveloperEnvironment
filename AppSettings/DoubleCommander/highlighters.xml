@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <doublecmd>
   <Highlighters Version="1">
-    <Highlighter Tag="0" Name="Zwykły tekst">
+    <Highlighter Tag="0" Name="Czysty tekst">
       <DefaultFilter/>
       <Attribute Name="Default text">
         <Style>0</Style>
@@ -90,7 +90,7 @@
       <Attribute Name="Space">
         <Style>0</Style>
         <StyleMask>0</StyleMask>
-        <Foreground>536870911</Foreground>
+        <Foreground>-2147483643</Foreground>
         <Background>536870911</Background>
         <FrameColor>536870911</FrameColor>
         <FrameStyle>0</FrameStyle>
@@ -209,7 +209,7 @@
       </Attribute>
     </Highlighter>
     <Highlighter Tag="1" Name="Diff File">
-      <DefaultFilter>Difference Files (*.diff,*.patch)|*.diff;*.patch</DefaultFilter>
+      <DefaultFilter/>
       <Attribute Name="Default text">
         <Style>0</Style>
         <StyleMask>0</StyleMask>
@@ -609,7 +609,7 @@
       <Attribute Name="Space">
         <Style>0</Style>
         <StyleMask>0</StyleMask>
-        <Foreground>536870911</Foreground>
+        <Foreground>-2147483643</Foreground>
         <Background>536870911</Background>
         <FrameColor>536870911</FrameColor>
         <FrameStyle>0</FrameStyle>
@@ -1140,7 +1140,7 @@
       <Attribute Name="Space">
         <Style>0</Style>
         <StyleMask>0</StyleMask>
-        <Foreground>536870911</Foreground>
+        <Foreground>-2147483643</Foreground>
         <Background>536870911</Background>
         <FrameColor>536870911</FrameColor>
         <FrameStyle>0</FrameStyle>

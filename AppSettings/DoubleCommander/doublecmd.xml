@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<doublecmd DCVersion="0.8.1 beta" ConfigVersion="10">
+<?xml version="1.0" encoding="utf-8"?>
+<doublecmd DCVersion="0.7.8 beta" ConfigVersion="9">
   <Configuration Save="True" SortOrder="0">
-    <UseConfigInProgramDir>True</UseConfigInProgramDir>
+    <UseConfigInProgramDir>False</UseConfigInProgramDir>
   </Configuration>
   <Colors>
     <FileFilters>
@@ -32,8 +32,7 @@
     <UseInvertedSelection>False</UseInvertedSelection>
     <UseInactiveSelColor>False</UseInactiveSelColor>
     <AllowOverColor>True</AllowOverColor>
-    <gBorderFrameWidth>1</gBorderFrameWidth>
-    <InactivePanelBrightness>97</InactivePanelBrightness>
+    <InactivePanelBrightness>100</InactivePanelBrightness>
     <FreeSpaceIndicator>
       <UseGradient>True</UseGradient>
       <ForeColor>0</ForeColor>
@@ -44,120 +43,109 @@
     <MainToolbar>
       <Row>
         <Command>
-          <ID>{D0DF8483-3636-4A0D-AAFE-AEF71F7762A0}</ID>
+          <ID>{4FB1AB6B-BEF9-449C-B554-96DDB257B67C}</ID>
           <Icon>cm_refresh</Icon>
           <Command>cm_Refresh</Command>
         </Command>
         <Command>
-          <ID>{E7F63488-F82C-44B0-8BB0-3F7902F92610}</ID>
+          <ID>{C34B5E16-D691-43FB-A02E-5A0D6C9840ED}</ID>
           <Icon>cm_runterm</Icon>
           <Command>cm_RunTerm</Command>
         </Command>
         <Command>
-          <ID>{64BC5882-7662-46CC-93EB-25111BCF51D3}</ID>
+          <ID>{D2F82F89-43D9-4F1B-B4F2-3833FF6D0D0D}</ID>
           <Icon>cm_options</Icon>
           <Command>cm_Options</Command>
         </Command>
         <Separator/>
         <Command>
-          <ID>{7939C90C-5886-4325-814E-8B3BFF9144BC}</ID>
+          <ID>{9A1B2C31-C0F1-4EBB-A940-2196880F1D2C}</ID>
           <Icon>cm_briefview</Icon>
           <Command>cm_BriefView</Command>
         </Command>
         <Command>
-          <ID>{B13FA699-189B-4180-90AB-DF89D8AF9452}</ID>
+          <ID>{F7769B4C-C61E-4C8D-A0DE-539DCCC79BF9}</ID>
           <Icon>cm_columnsview</Icon>
           <Command>cm_ColumnsView</Command>
         </Command>
         <Command>
-          <ID>{F0A1C687-4939-4284-B971-F784D6D24F47}</ID>
+          <ID>{06036EBB-AFCD-4DDB-8232-2A814301342F}</ID>
           <Icon>cm_thumbnailsview</Icon>
           <Command>cm_ThumbnailsView</Command>
         </Command>
         <Separator/>
         <Command>
-          <ID>{5DD8E246-3F40-4C2C-930C-D4CCC46B3901}</ID>
+          <ID>{D6DDAA57-4410-4C1F-A491-E1D1890E2D53}</ID>
           <Icon>cm_flatview</Icon>
           <Command>cm_FlatView</Command>
         </Command>
         <Separator/>
         <Command>
-          <ID>{4F37BBAD-56EA-4B08-92A8-4923E5724B52}</ID>
+          <ID>{84A97B0A-C1B8-4D59-84F6-2DB7B5A3AD6D}</ID>
           <Icon>cm_viewhistoryprev</Icon>
           <Command>cm_ViewHistoryPrev</Command>
         </Command>
         <Command>
-          <ID>{D22DDEB6-813E-4A30-A4D0-9AEBDF299868}</ID>
+          <ID>{BBDF807F-AB26-4EF3-AC42-1D18E9721BBC}</ID>
           <Icon>cm_viewhistorynext</Icon>
           <Command>cm_ViewHistoryNext</Command>
         </Command>
         <Separator/>
         <Command>
-          <ID>{2A477300-DB87-4C66-81BC-95DC57F33BDE}</ID>
+          <ID>{E5E59209-D924-40D4-A1A1-BA0863CDBDBC}</ID>
           <Icon>cm_markplus</Icon>
           <Command>cm_MarkPlus</Command>
         </Command>
         <Command>
-          <ID>{A7C3DE6A-0ADD-4AE9-A13D-3181A607D41C}</ID>
+          <ID>{663A8C1E-D501-49F1-9441-C41D55274561}</ID>
           <Icon>cm_markminus</Icon>
           <Command>cm_MarkMinus</Command>
         </Command>
         <Command>
-          <ID>{E6ADB0C4-4F76-40E6-A344-122B05736E56}</ID>
+          <ID>{7E3088AF-729B-47E5-899A-2DD3E70DAD97}</ID>
           <Icon>cm_markinvert</Icon>
           <Command>cm_MarkInvert</Command>
         </Command>
         <Separator/>
         <Command>
-          <ID>{DF63E8A8-C6AD-4BBD-B04B-CD68084CF5FB}</ID>
+          <ID>{FE2F689C-4688-4104-AF0B-74CDAE8D40C0}</ID>
           <Icon>cm_packfiles</Icon>
           <Command>cm_PackFiles</Command>
         </Command>
         <Command>
-          <ID>{0547C5C5-4E0B-4D99-9F99-E06CDAB336E0}</ID>
+          <ID>{7165AB8A-85C8-4A26-AB14-1A186AA3F658}</ID>
           <Icon>cm_extractfiles</Icon>
           <Command>cm_ExtractFiles</Command>
         </Command>
         <Separator/>
         <Command>
-          <ID>{5585498D-09AA-482D-B33D-67DB261EE751}</ID>
+          <ID>{55B46B2D-612D-4C46-8505-7E87D18D79EE}</ID>
           <Icon>cm_search</Icon>
           <Command>cm_Search</Command>
         </Command>
         <Command>
-          <ID>{45C21C5D-E3B6-4FBE-B4B5-B53BDACD8F16}</ID>
+          <ID>{30CB18FD-FD1D-41F8-AC62-EA0D2D7D1705}</ID>
           <Icon>cm_multirename</Icon>
           <Command>cm_MultiRename</Command>
         </Command>
         <Command>
-          <ID>{80C3A6C7-CF2C-4A9F-AAB9-66FAC338BFBE}</ID>
+          <ID>{9C8CFB6A-BEDE-4F57-84B0-12FA365791D0}</ID>
           <Icon>cm_syncdirs</Icon>
           <Command>cm_SyncDirs</Command>
         </Command>
         <Command>
-          <ID>{D0BB6133-6139-4324-8B14-1BB08C4983B0}</ID>
+          <ID>{B1B90CB4-D51A-4ACC-AE2F-6241C64864B7}</ID>
           <Icon>cm_copyfullnamestoclip</Icon>
           <Command>cm_CopyFullNamesToClip</Command>
         </Command>
       </Row>
     </MainToolbar>
   </Toolbars>
-  <MainWindow>
-    <Position>
-      <Maximized>False</Maximized>
-      <Splitter>50</Splitter>
-      <Left>173</Left>
-      <Top>97</Top>
-      <Width>1272</Width>
-      <Height>823</Height>
-      <PixelsPerInch>96</PixelsPerInch>
-    </Position>
-  </MainWindow>
   <Language>
     <POFileName>doublecmd.pl.po</POFileName>
   </Language>
   <Behaviours>
-    <GoToRoot>True</GoToRoot>
+    <GoToRoot>False</GoToRoot>
     <RunInTerminalStayOpenCmd>cmd.exe</RunInTerminalStayOpenCmd>
     <RunInTerminalStayOpenParams>/K {command}</RunInTerminalStayOpenParams>
     <RunInTerminalCloseCmd>cmd.exe</RunInTerminalCloseCmd>
@@ -167,14 +155,12 @@
     <OnlyOneAppInstance>False</OnlyOneAppInstance>
     <LynxLike>True</LynxLike>
     <FileSizeFormat>0</FileSizeFormat>
-    <FileSizeDigits>1</FileSizeDigits>
     <MinimizeToTray>False</MinimizeToTray>
     <AlwaysShowTrayIcon>False</AlwaysShowTrayIcon>
     <Mouse>
       <Selection Enabled="True">
         <Button>0</Button>
       </Selection>
-      <SingleClickStart>0</SingleClickStart>
       <ScrollMode>1</ScrollMode>
       <WheelScrollLines>3</WheelScrollLines>
     </Mouse>
@@ -184,8 +170,7 @@
     <BriefViewFileExtAligned>False</BriefViewFileExtAligned>
     <DateTimeFormat>dd.MM.yyyy hh:nn:ss</DateTimeFormat>
     <CutTextToColumnWidth>True</CutTextToColumnWidth>
-    <ExtendCellWidth>False</ExtendCellWidth>
-    <ShowSystemFiles>True</ShowSystemFiles>
+    <ShowSystemFiles>False</ShowSystemFiles>
     <ListFilesInThread>True</ListFilesInThread>
     <LoadIconsSeparately>True</LoadIconsSeparately>
     <DelayLoadingTabs>True</DelayLoadingTabs>
@@ -222,61 +207,31 @@
       <Quality>0</Quality>
     </Main>
     <Editor>
-      <Name>Courier New</Name>
-      <Size>12</Size>
+      <Name>Fixedsys</Name>
+      <Size>14</Size>
       <Style>0</Style>
       <Quality>0</Quality>
     </Editor>
     <Viewer>
-      <Name>Courier New</Name>
+      <Name>Fixedsys</Name>
       <Size>14</Size>
       <Style>0</Style>
       <Quality>0</Quality>
     </Viewer>
-    <OptionsTree>
-      <Name>default</Name>
-      <Size>10</Size>
-      <Style>0</Style>
-      <Quality>0</Quality>
-    </OptionsTree>
-    <OptionsMain>
-      <Name>default</Name>
-      <Size>10</Size>
-      <Style>0</Style>
-      <Quality>0</Quality>
-    </OptionsMain>
-    <SearchResults>
-      <Name>default</Name>
-      <Size>14</Size>
-      <Style>0</Style>
-      <Quality>0</Quality>
-    </SearchResults>
-    <PathEdit>
-      <Name>default</Name>
-      <Size>8</Size>
-      <Style>0</Style>
-      <Quality>0</Quality>
-    </PathEdit>
-    <FunctionButtons>
-      <Name>default</Name>
-      <Size>8</Size>
-      <Style>0</Style>
-      <Quality>0</Quality>
-    </FunctionButtons>
     <Log>
-      <Name>Courier New</Name>
+      <Name>Fixedsys</Name>
       <Size>12</Size>
       <Style>0</Style>
       <Quality>0</Quality>
     </Log>
     <ViewerBook>
       <Name>default</Name>
-      <Size>13</Size>
+      <Size>16</Size>
       <Style>1</Style>
       <Quality>0</Quality>
     </ViewerBook>
     <Console>
-      <Name>Courier New</Name>
+      <Name>Fixedsys</Name>
       <Size>12</Size>
       <Style>0</Style>
       <Quality>0</Quality>
@@ -288,8 +243,8 @@
   </ToolTips>
   <Layout>
     <MainMenu>True</MainMenu>
-    <ButtonBar Enabled="False">
-      <FlatIcons>False</FlatIcons>
+    <ButtonBar Enabled="True">
+      <FlatIcons>True</FlatIcons>
       <ButtonHeight>24</ButtonHeight>
       <IconSize>16</IconSize>
       <ReportErrorWithCommands>False</ReportErrorWithCommands>
@@ -297,9 +252,9 @@
     <DriveBar1>True</DriveBar1>
     <DriveBar2>True</DriveBar2>
     <DriveBarFlat>True</DriveBarFlat>
-    <DrivesListButton Enabled="False">
+    <DrivesListButton Enabled="True">
       <ShowLabel>True</ShowLabel>
-      <ShowFileSystem>False</ShowFileSystem>
+      <ShowFileSystem>True</ShowFileSystem>
       <ShowFreeSpace>True</ShowFreeSpace>
     </DrivesListButton>
     <SeparateTree>False</SeparateTree>
@@ -310,19 +265,19 @@
     <CmdLine>True</CmdLine>
     <LogWindow>False</LogWindow>
     <TermWindow>False</TermWindow>
-    <KeyButtons>False</KeyButtons>
+    <KeyButtons>True</KeyButtons>
     <InterfaceFlat>True</InterfaceFlat>
     <DriveFreeSpace>True</DriveFreeSpace>
     <DriveIndicator>False</DriveIndicator>
     <ProgressInMenuBar>False</ProgressInMenuBar>
-    <PanelOfOperationsInBackground>False</PanelOfOperationsInBackground>
+    <PanelOfOperationsInBackground>True</PanelOfOperationsInBackground>
     <HorizontalFilePanels>False</HorizontalFilePanels>
-    <ShortFormatDriveInfo>False</ShortFormatDriveInfo>
+    <ShortFormatDriveInfo>True</ShortFormatDriveInfo>
   </Layout>
   <FilesViews>
     <Sorting>
       <CaseSensitivity>0</CaseSensitivity>
-      <NaturalSorting>True</NaturalSorting>
+      <NaturalSorting>False</NaturalSorting>
       <SortFolderMode>0</SortFolderMode>
       <NewFilesPosition>2</NewFilesPosition>
       <UpdatedFilesPosition>2</UpdatedFilesPosition>
@@ -339,12 +294,11 @@
         <AutoSize>2</AutoSize>
       </Columns>
     </BriefView>
-    <ExtraLineSpan>2</ExtraLineSpan>
   </FilesViews>
   <Keyboard>
     <Typing>
       <Actions>
-        <NoModifier>3</NoModifier>
+        <NoModifier>2</NoModifier>
         <Alt>0</Alt>
         <CtrlAlt>3</CtrlAlt>
       </Actions>
@@ -355,18 +309,15 @@
     <HashBufferSize>8388608</HashBufferSize>
     <UseMmapInSearch>False</UseMmapInSearch>
     <PartialNameSearch>True</PartialNameSearch>
-    <InitiallyClearFileMask>True</InitiallyClearFileMask>
-    <NewSearchClearFiltersAction>0</NewSearchClearFiltersAction>
-    <ShowMenuBarInFindFiles>True</ShowMenuBarInFindFiles>
     <WipePassNumber>1</WipePassNumber>
     <DropReadOnlyFlag>False</DropReadOnlyFlag>
     <ProcessComments>False</ProcessComments>
     <RenameSelOnlyName>False</RenameSelOnlyName>
     <ShowCopyTabSelectPanel>False</ShowCopyTabSelectPanel>
-    <UseTrash>False</UseTrash>
+    <UseTrash>True</UseTrash>
     <SkipFileOpError>False</SkipFileOpError>
     <TypeOfDuplicatedRename>0</TypeOfDuplicatedRename>
-    <ShowDialogOnDragDrop>True</ShowDialogOnDragDrop>
+    <ShowDialogOnDragDrop>False</ShowDialogOnDragDrop>
     <DragAndDropTextRichtextDesireLevel>0</DragAndDropTextRichtextDesireLevel>
     <DragAndDropTextHtmlDesireLevel>1</DragAndDropTextHtmlDesireLevel>
     <DragAndDropTextUnicodeDesireLevel>2</DragAndDropTextUnicodeDesireLevel>
@@ -374,8 +325,8 @@
     <DragAndDropAskFormatEachTime>False</DragAndDropAskFormatEachTime>
     <DragAndDropTextAutoFilename>False</DragAndDropTextAutoFilename>
     <DragAndDropSaveUnicodeTextInUFT8>True</DragAndDropSaveUnicodeTextInUFT8>
+    <OverwriteFolder>False</OverwriteFolder>
     <NtfsHourTimeDelay>False</NtfsHourTimeDelay>
-    <AutoExtractOpenMask/>
     <SearchDefaultTemplate/>
     <ProgressKind>0</ProgressKind>
     <Confirmations>15</Confirmations>
@@ -388,15 +339,15 @@
       <ReserveSpace>False</ReserveSpace>
       <CheckFreeSpace>True</CheckFreeSpace>
       <CopyAttributes>True</CopyAttributes>
-      <Verify>False</Verify>
       <CopyTime>True</CopyTime>
       <CopyOwnership>False</CopyOwnership>
       <CopyPermissions>False</CopyPermissions>
       <ExcludeEmptyTemplateDirectories>True</ExcludeEmptyTemplateDirectories>
     </Options>
+    <AutoExtractOpenMask/>
   </FileOperations>
   <Tabs>
-    <Options>49937</Options>
+    <Options>54033</Options>
     <CharacterLimit>32</CharacterLimit>
     <Position>0</Position>
     <ActionOnDoubleClick>2</ActionOnDoubleClick>
@@ -405,60 +356,66 @@
         <ActiveTab>0</ActiveTab>
         <Tab>
           <FileView Type="brief">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
             <History>
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">d:\Projects\</Path>
-                  <Path Filename="Program Files (x86)">d:\</Path>
-                  <Path Filename="..">d:\Program Files (x86)\</Path>
-                  <Path Filename="Projects">d:\</Path>
-                  <Path Filename="SrodowiskoPracy">d:\Projects\</Path>
-                  <Path Filename="..">d:\Projects\SrodowiskoPracy\</Path>
-                  <Path Filename="18-01-2018">d:\</Path>
-                  <Path Filename="4">d:\18-01-2018\</Path>
-                  <Path Filename="new-application">d:\18-01-2018\4\</Path>
-                  <Path Filename="..">d:\18-01-2018\4\new-application\</Path>
-                  <Path Filename="old-application">d:\18-01-2018\4\</Path>
-                  <Path Filename="..">d:\18-01-2018\4\old-application\</Path>
-                  <Path Filename="new-application">d:\18-01-2018\4\</Path>
-                  <Path Filename="..">d:\18-01-2018\4\new-application\</Path>
-                  <Path Filename="..">d:\18-01-2018\4\</Path>
-                  <Path Filename="4">d:\18-01-2018\</Path>
-                  <Path Filename="new-application">d:\18-01-2018\4\</Path>
-                  <Path Filename="..">d:\18-01-2018\4\new-application\</Path>
-                  <Path Filename="new-application">d:\18-01-2018\4\</Path>
-                  <Path Filename="..">d:\18-01-2018\4\new-application\</Path>
-                  <Path Filename="old-application">d:\18-01-2018\4\</Path>
-                  <Path Filename="..">d:\18-01-2018\4\old-application\</Path>
-                  <Path Filename="..">d:\18-01-2018\4\</Path>
-                  <Path Filename="..">d:\18-01-2018\</Path>
-                  <Path Filename="18-01-2018">d:\</Path>
-                  <Path Filename="4">d:\18-01-2018\</Path>
-                  <Path Filename="new-application">d:\18-01-2018\4\</Path>
-                  <Path Filename="..">d:\18-01-2018\4\new-application\</Path>
-                  <Path Filename="old-application">d:\18-01-2018\4\</Path>
-                  <Path Filename="..">d:\18-01-2018\4\old-application\</Path>
-                  <Path Filename="old-application">d:\18-01-2018\4\</Path>
-                  <Path Filename="..">d:\18-01-2018\4\old-application\</Path>
-                  <Path Filename="old-application">d:\18-01-2018\4\</Path>
-                  <Path Filename="..">d:\18-01-2018\4\old-application\</Path>
-                  <Path Filename="..">d:\18-01-2018\4\</Path>
-                  <Path Filename="..">d:\18-01-2018\</Path>
-                  <Path Filename="OneDrive">d:\</Path>
-                  <Path Filename="BCC">d:\OneDrive\</Path>
-                  <Path Filename="Prywatne">d:\OneDrive\BCC\</Path>
-                  <Path Filename="..">d:\OneDrive\BCC\Prywatne\</Path>
-                  <Path Filename="Prywatne">d:\OneDrive\BCC\</Path>
-                  <Path Filename="18-01-2018">d:\</Path>
-                  <Path Filename="..">d:\18-01-2018\</Path>
-                  <Path Filename="18-01-2018">d:\</Path>
-                  <Path Filename="4">d:\18-01-2018\</Path>
-                  <Path Filename="old-application">d:\18-01-2018\4\</Path>
-                  <Path Filename="..">d:\18-01-2018\4\old-application\</Path>
-                  <Path Filename="old-application">d:\18-01-2018\4\</Path>
-                  <Path Filename="Web.config">d:\18-01-2018\4\old-application\</Path>
-                  <Path Filename="..">D:\Pobrane\</Path>
+                  <Path Filename="Temp">D:\</Path>
+                  <Path Filename="..">D:\Temp\</Path>
+                  <Path Filename="SQLServer2016Media">D:\</Path>
+                  <Path Filename="..">D:\SQLServer2016Media\</Path>
+                  <Path Filename="OneDrive">D:\</Path>
+                  <Path Filename="BCC">D:\OneDrive\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\</Path>
+                  <Path Filename="BCC">D:\OneDrive\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\</Path>
+                  <Path Filename="..">D:\OneDrive\</Path>
+                  <Path Filename="Projects">D:\</Path>
+                  <Path Filename="DropImage">D:\Projects\</Path>
+                  <Path Filename="DropImage">D:\Projects\DropImage\</Path>
+                  <Path Filename="..">D:\Projects\DropImage\DropImage\</Path>
+                  <Path Filename="packages">D:\Projects\DropImage\</Path>
+                  <Path Filename="..">D:\Projects\DropImage\packages\</Path>
+                  <Path Filename="packages">D:\Projects\DropImage\</Path>
+                  <Path Filename="..">D:\Projects\DropImage\packages\</Path>
+                  <Path Filename="uwagi">D:\Projects\DropImage\</Path>
+                  <Path Filename="..">D:\Projects\</Path>
+                  <Path Filename="OneDrive">D:\</Path>
+                  <Path Filename="BCC">D:\OneDrive\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\</Path>
+                  <Path Filename="BCC">D:\OneDrive\</Path>
+                  <Path Filename="SPG">D:\OneDrive\BCC\</Path>
+                  <Path Filename="SPG-1081">D:\OneDrive\BCC\SPG\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\SPG\SPG-1081\</Path>
+                  <Path Filename="SPG-1081">D:\OneDrive\BCC\SPG\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\SPG\SPG-1081\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\SPG\</Path>
+                  <Path Filename="SPG">D:\OneDrive\BCC\</Path>
+                  <Path Filename="SPG-1081">D:\OneDrive\BCC\SPG\</Path>
+                  <Path Filename="DLL-do_podminay-config">D:\OneDrive\BCC\SPG\SPG-1081\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\SPG\SPG-1081\DLL-do_podminay-config\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\SPG\SPG-1081\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\SPG\</Path>
+                  <Path Filename="backup">D:\OneDrive\BCC\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\backup\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\</Path>
+                  <Path Filename="..">D:\OneDrive\</Path>
+                  <Path Filename="OneDrive">D:\</Path>
+                  <Path Filename="BCC">D:\OneDrive\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\</Path>
+                  <Path Filename="..">D:\OneDrive\</Path>
+                  <Path Filename="OneDrive">D:\</Path>
+                  <Path Filename="BCC">D:\OneDrive\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\</Path>
+                  <Path Filename="BCC">D:\OneDrive\</Path>
+                  <Path Filename="Users">C:\</Path>
+                  <Path Filename="Administrator2">C:\Users\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -476,59 +433,193 @@
               </Sorting>
             </Sortings>
             <History>
+              <Entry>
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="Wersja z DEV">D:\Projects\Selgros\DLL-do_podminay-config\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\DLL-do_podminay-config\Wersja z DEV\</Path>
+                  <Path Filename="Wersja z PROD">D:\Projects\Selgros\DLL-do_podminay-config\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\DLL-do_podminay-config\Wersja z PROD\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\DLL-do_podminay-config\</Path>
+                  <Path Filename="Rezultaty">D:\Projects\Selgros\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\Rezultaty\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\</Path>
+                  <Path Filename="Selgros">D:\Projects\</Path>
+                  <Path Filename="ProdukcjaPROD">D:\Projects\Selgros\</Path>
+                  <Path Filename="02032017">D:\Projects\Selgros\ProdukcjaPROD\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\ProdukcjaPROD\02032017\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\ProdukcjaPROD\</Path>
+                  <Path Filename="ProdukcjaPROD">D:\Projects\Selgros\</Path>
+                  <Path Filename="02032017">D:\Projects\Selgros\ProdukcjaPROD\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\ProdukcjaPROD\02032017\</Path>
+                  <Path Filename="binDEV">D:\Projects\Selgros\ProdukcjaPROD\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\ProdukcjaPROD\binDEV\</Path>
+                  <Path Filename="binDEV">D:\Projects\Selgros\ProdukcjaPROD\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\ProdukcjaPROD\binDEV\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\ProdukcjaPROD\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\</Path>
+                  <Path Filename="Selgros">D:\Projects\</Path>
+                  <Path Filename="BazyDanych">D:\Projects\Selgros\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\BazyDanych\</Path>
+                  <Path Filename="Etykiety">D:\Projects\Selgros\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\Etykiety\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\</Path>
+                  <Path Filename="..">D:\Projects\</Path>
+                  <Path Filename="SPG">D:\</Path>
+                  <Path Filename="SPG-1081">D:\SPG\</Path>
+                  <Path Filename="ProdukcjaPROD">D:\SPG\SPG-1081\</Path>
+                  <Path Filename="..">D:\SPG\SPG-1081\ProdukcjaPROD\</Path>
+                  <Path Filename="Rezultaty">D:\SPG\SPG-1081\</Path>
+                  <Path Filename="3mzzclwq.bvg">D:\SPG\SPG-1081\Rezultaty\</Path>
+                  <Path Filename="..">D:\SPG\SPG-1081\Rezultaty\3mzzclwq.bvg\</Path>
+                  <Path Filename="..">D:\SPG\SPG-1081\Rezultaty\</Path>
+                  <Path Filename="ProdukcjaPROD">D:\SPG\SPG-1081\</Path>
+                  <Path Filename="..">D:\SPG\SPG-1081\ProdukcjaPROD\</Path>
+                  <Path Filename="DLL-do-podmiany">D:\SPG\SPG-1081\</Path>
+                  <Path Filename="..">D:\SPG\SPG-1081\DLL-do-podmiany\</Path>
+                  <Path Filename="DLL-do_podminay-config">D:\SPG\SPG-1081\</Path>
+                  <Path Filename="Wersja z DEV">D:\SPG\SPG-1081\DLL-do_podminay-config\</Path>
+                  <Path Filename="..">D:\SPG\SPG-1081\DLL-do_podminay-config\Wersja z DEV\</Path>
+                  <Path Filename="..">D:\SPG\SPG-1081\DLL-do_podminay-config\</Path>
+                  <Path Filename="DLL-do_podminay-config">D:\SPG\SPG-1081\</Path>
+                  <Path Filename="Wersja z DEV">D:\SPG\SPG-1081\DLL-do_podminay-config\</Path>
+                  <Path Filename="..">D:\SPG\SPG-1081\DLL-do_podminay-config\Wersja z DEV\</Path>
+                  <Path Filename="..">D:\SPG\SPG-1081\DLL-do_podminay-config\</Path>
+                  <Path Filename="">D:\SPG\SPG-1081\</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
               <Entry Active="True">
                 <FileSource Type="FileSystem"/>
                 <Paths>
-                  <Path Filename="..">d:\Projects\ApplicationUpdater\Scripts\</Path>
-                  <Path Filename="..">d:\Projects\ApplicationUpdater\</Path>
-                  <Path Filename="ApplicationUpdater">d:\Projects\</Path>
-                  <Path Filename="..">d:\Projects\ApplicationUpdater\</Path>
-                  <Path Filename="imagebank">d:\Projects\</Path>
-                  <Path Filename="trunk">d:\Projects\imagebank\</Path>
-                  <Path Filename="..">d:\Projects\imagebank\trunk\</Path>
-                  <Path Filename="ImageBankImport">D:\Projects\imagebank\trunk\ImageBank\</Path>
-                  <Path Filename="..">D:\Projects\imagebank\trunk\ImageBank\ImageBankImport\</Path>
-                  <Path Filename="..">D:\Projects\imagebank\trunk\ImageBank\</Path>
-                  <Path Filename="..">D:\Projects\imagebank\trunk\</Path>
-                  <Path Filename="..">D:\Projects\imagebank\</Path>
-                  <Path Filename="MoveMouse">D:\Projects\</Path>
-                  <Path Filename="SelgrosPG.Presentation">D:\Projects\Selgros\PG\trunk\</Path>
-                  <Path Filename="Jobs">D:\Projects\Selgros\PG\trunk\SelgrosPG.Presentation\</Path>
-                  <Path Filename="..">D:\Projects\Selgros\PG\trunk\SelgrosPG.Presentation\Jobs\</Path>
-                  <Path Filename="..">D:\Projects\Selgros\PG\trunk\SelgrosPG.Presentation\</Path>
-                  <Path Filename="..">D:\Projects\Selgros\PG\trunk\</Path>
                   <Path Filename="..">D:\Projects\Selgros\PG\</Path>
-                  <Path Filename="PG">D:\Projects\Selgros\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\</Path>
+                  <Path Filename="Backup Selgros">D:\Projects\</Path>
+                  <Path Filename="..">D:\Projects\Backup Selgros\</Path>
+                  <Path Filename="..">D:\Projects\</Path>
+                  <Path Filename="OneDrive">D:\</Path>
+                  <Path Filename="BCC">D:\OneDrive\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\</Path>
+                  <Path Filename="..">D:\OneDrive\</Path>
+                  <Path Filename="MININT">D:\</Path>
+                  <Path Filename="..">C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\SQL\Snippets\1033\</Path>
+                  <Path Filename="..">C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\SQL\Snippets\</Path>
+                  <Path Filename="..">C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\SQL\</Path>
+                  <Path Filename="..">C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\</Path>
+                  <Path Filename="ManagementStudio">C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\</Path>
+                  <Path Filename="imagebank">D:\Projects\</Path>
+                  <Path Filename="trunk">D:\Projects\imagebank\</Path>
+                  <Path Filename="ImageBank">D:\Projects\imagebank\trunk\</Path>
                   <Path Filename="ImageBank">D:\Projects\imagebank\trunk\ImageBank\</Path>
-                  <Path Filename="Jobs">D:\Projects\imagebank\trunk\ImageBank\ImageBank\</Path>
-                  <Path Filename="..">D:\Projects\imagebank\trunk\ImageBank\ImageBank\Jobs\</Path>
+                  <Path Filename="UploadImages">D:\Projects\imagebank\trunk\ImageBank\ImageBank\</Path>
+                  <Path Filename="..">D:\Projects\imagebank\trunk\ImageBank\ImageBank\UploadImages\</Path>
+                  <Path Filename="UploadImages">D:\Projects\imagebank\trunk\ImageBank\ImageBank\</Path>
+                  <Path Filename="..">D:\Projects\imagebank\trunk\ImageBank\ImageBank\UploadImages\</Path>
                   <Path Filename="..">D:\Projects\imagebank\trunk\ImageBank\ImageBank\</Path>
                   <Path Filename="..">D:\Projects\imagebank\trunk\ImageBank\</Path>
-                  <Path Filename="ImageBank">D:\Projects\imagebank\trunk\</Path>
-                  <Path Filename="ImageBankModels">D:\Projects\imagebank\trunk\ImageBank\</Path>
-                  <Path Filename="..">D:\Projects\imagebank\trunk\ImageBank\ImageBankModels\</Path>
-                  <Path Filename="..">D:\Projects\imagebank\trunk\ImageBank\</Path>
                   <Path Filename="..">D:\Projects\imagebank\trunk\</Path>
                   <Path Filename="..">D:\Projects\imagebank\</Path>
-                  <Path Filename="..">D:\Pobrane\</Path>
+                  <Path Filename="..">D:\Projects\</Path>
+                  <Path Filename="MININT">D:\</Path>
+                  <Path Filename="..">D:\MININT\</Path>
                   <Path Filename="OneDrive">D:\</Path>
+                  <Path Filename="BCC">D:\OneDrive\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\</Path>
                   <Path Filename="..">D:\OneDrive\</Path>
                   <Path Filename="Instalki">D:\</Path>
+                  <Path Filename="..">D:\Instalki\</Path>
+                  <Path Filename="Instalki">D:\</Path>
+                  <Path Filename="TG-VPN">D:\Instalki\</Path>
+                  <Path Filename="..">D:\Instalki\TG-VPN\</Path>
+                  <Path Filename="TG-VPN">D:\Instalki\</Path>
+                  <Path Filename="Profiles">D:\Instalki\TG-VPN\</Path>
+                  <Path Filename="vpn">D:\Instalki\TG-VPN\Profiles\</Path>
+                  <Path Filename="..">D:\Instalki\TG-VPN\Profiles\vpn\</Path>
+                  <Path Filename="..">D:\Instalki\TG-VPN\Profiles\</Path>
+                  <Path Filename="Profiles">D:\Instalki\TG-VPN\</Path>
+                  <Path Filename="..">D:\Instalki\TG-VPN\Profiles\</Path>
+                  <Path Filename="..">D:\Instalki\TG-VPN\</Path>
+                  <Path Filename="..">D:\Instalki\</Path>
+                  <Path Filename="Instalki">D:\</Path>
+                  <Path Filename="">D:\Instalki\</Path>
+                </Paths>
+              </Entry>
+            </History>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="brief">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\specyfikacje\</Path>
+                  <Path Filename="szablony email">D:\Projects\Selgros\PG\doc\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\szablony email\</Path>
+                  <Path Filename="testy akceptacyjne">D:\Projects\Selgros\PG\doc\</Path>
+                  <Path Filename="Selenium">D:\Projects\Selgros\PG\doc\testy akceptacyjne\</Path>
+                  <Path Filename="10. Podsumowanie Branż">D:\Projects\Selgros\PG\doc\testy akceptacyjne\Selenium\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\testy akceptacyjne\Selenium\10. Podsumowanie Branż\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\testy akceptacyjne\Selenium\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\testy akceptacyjne\</Path>
+                  <Path Filename="transfer wiedzy">D:\Projects\Selgros\PG\doc\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\transfer wiedzy\</Path>
+                  <Path Filename="uklady stron">D:\Projects\Selgros\PG\doc\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\uklady stron\</Path>
+                  <Path Filename="werbekoncept">D:\Projects\Selgros\PG\doc\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\werbekoncept\</Path>
+                  <Path Filename="wisebase">D:\Projects\Selgros\PG\doc\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\wisebase\</Path>
+                  <Path Filename="wisebase">D:\Projects\Selgros\PG\doc\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\wisebase\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\</Path>
+                  <Path Filename="doc">D:\Projects\Selgros\PG\</Path>
+                  <Path Filename="baza danych selgros">D:\Projects\Selgros\PG\doc\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\baza danych selgros\</Path>
+                  <Path Filename="ara">D:\Projects\Selgros\PG\doc\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\ara\</Path>
+                  <Path Filename="baza danych selgros">D:\Projects\Selgros\PG\doc\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\baza danych selgros\</Path>
+                  <Path Filename="dokumentacja">D:\Projects\Selgros\PG\doc\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\dokumentacja\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\doc\</Path>
+                  <Path Filename="trunk">D:\Projects\Selgros\PG\</Path>
                   <Path Filename="SelgrosPG.Presentation">D:\Projects\Selgros\PG\trunk\</Path>
-                  <Path Filename="bin">D:\Projects\Selgros\PG\trunk\SelgrosPG.Presentation\</Path>
-                  <Path Filename="Release">D:\Projects\Selgros\PG\trunk\SelgrosPG.Presentation\bin\</Path>
-                  <Path Filename="PublishOutput">D:\Projects\Selgros\PG\trunk\SelgrosPG.Presentation\bin\Release\</Path>
-                  <Path Filename="..">D:\Projects\Selgros\PG\trunk\SelgrosPG.Presentation\bin\Release\PublishOutput\</Path>
-                  <Path Filename="PublishOutput">D:\Projects\Selgros\PG\trunk\SelgrosPG.Presentation\bin\Release\</Path>
-                  <Path Filename="Web.config">D:\Projects\Selgros\PG\trunk\SelgrosPG.Presentation\bin\Release\PublishOutput\</Path>
-                  <Path Filename="..">D:\Projects\Selgros\PG\trunk\</Path>
-                  <Path Filename="trunk">D:\Projects\Selgros\PG\</Path>
-                  <Path Filename="..">D:\Projects\Selgros\PG\trunk\</Path>
-                  <Path Filename="trunk">D:\Projects\Selgros\PG\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\trunk\SelgrosPG.Presentation\</Path>
+                  <Path Filename="DBScripts">D:\Projects\Selgros\PG\trunk\</Path>
+                  <Path Filename="UnitTests">D:\Projects\Selgros\PG\trunk\DBScripts\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\trunk\DBScripts\UnitTests\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\PG\trunk\DBScripts\</Path>
                   <Path Filename="..">D:\Projects\Selgros\PG\trunk\</Path>
                   <Path Filename="..">D:\Projects\Selgros\PG\</Path>
-                  <Path Filename="PG">D:\Projects\Selgros\</Path>
-                  <Path Filename="..">D:\Projects\Selgros\PG\</Path>
+                  <Path Filename="..">D:\Projects\Selgros\</Path>
+                  <Path Filename="Backup Selgros">D:\Projects\</Path>
+                  <Path Filename="..">D:\Projects\Backup Selgros\</Path>
+                  <Path Filename="..">D:\Projects\</Path>
+                  <Path Filename="MININT">D:\</Path>
+                  <Path Filename="..">D:\MININT\</Path>
+                  <Path Filename="OneDrive">D:\</Path>
+                  <Path Filename="BCC">D:\OneDrive\</Path>
+                  <Path Filename="..">D:\OneDrive\BCC\</Path>
+                  <Path Filename="..">D:\OneDrive\</Path>
+                  <Path Filename="">D:\</Path>
                 </Paths>
               </Entry>
             </History>
@@ -548,8 +639,8 @@
     <FileMaskHistory Save="True"/>
   </History>
   <QuickSearch>
-    <MatchBeginning>False</MatchBeginning>
-    <MatchEnding>False</MatchEnding>
+    <MatchBeginning>True</MatchBeginning>
+    <MatchEnding>True</MatchEnding>
     <Case>1</Case>
     <Items>2</Items>
   </QuickSearch>
@@ -562,9 +653,8 @@
     <GridHorzLine>False</GridHorzLine>
     <ShowWarningMessages>True</ShowWarningMessages>
     <SpaceMovesDown>False</SpaceMovesDown>
-    <DirBrackets>False</DirBrackets>
-    <InplaceRename>True</InplaceRename>
-    <DblClickToParent>False</DblClickToParent>
+    <DirBrackets>True</DirBrackets>
+    <InplaceRename>False</InplaceRename>
     <HotDirAddTargetOrNot>False</HotDirAddTargetOrNot>
     <HotDirFullExpandOrNot>False</HotDirFullExpandOrNot>
     <ShowPathInPopup>False</ShowPathInPopup>
@@ -575,47 +665,32 @@
     <Width>128</Width>
     <Height>128</Height>
   </Thumbnails>
-  <Description>
-    <CreateNewUnicode>True</CreateNewUnicode>
-    <DefaultEncoding>2</DefaultEncoding>
-    <CreateNewEncoding>3</CreateNewEncoding>
-  </Description>
   <AutoRefresh>
     <Options>3</Options>
     <ExcludeDirs/>
     <Mode>1</Mode>
   </AutoRefresh>
   <Icons>
-    <Theme>dctheme</Theme>
-    <ShowMode>2</ShowMode>
+    <ShowMode>3</ShowMode>
     <ShowOverlays>False</ShowOverlays>
     <Size>16</Size>
-    <DiskSize>16</DiskSize>
-    <DiskAlpha>50</DiskAlpha>
     <Exclude>False</Exclude>
     <ExcludeDirs/>
-    <CustomIcons>0</CustomIcons>
-    <PixelsPerInch>96</PixelsPerInch>
+    <CustomDriveIcons>False</CustomDriveIcons>
     <ShowInMenus Enabled="False">
       <Size>16</Size>
     </ShowInMenus>
-    <ShowButtonGlyphs>0</ShowButtonGlyphs>
   </Icons>
   <IgnoreList Enabled="False">
     <IgnoreListFile>%DC_CONFIG_PATH%\ignorelist.txt</IgnoreListFile>
   </IgnoreList>
   <DirectoryHotList>
-    <HotDir Name="BCC" Path="D:\OneDrive\BCC\"/>
-    <HotDir Name="Pobrane" Path="d:\Pobrane\"/>
-    <HotDir Name="Desktop" Path="c:\Users\walkowskip\Desktop\"/>
+    <HotDir Name="Downloads" Path="C:\Users\walkowskip\Downloads\"/>
     <HotDir Name="Projects" Path="d:\Projects\"/>
-    <HotDir Name="ImageBank" Path="D:\Projects\imagebank\trunk\ImageBank\"/>
-    <HotDir Name="SelgrosPG" Path="d:\Projects\Selgros\PG\trunk"/>
   </DirectoryHotList>
   <Viewer>
     <PreviewVisible>False</PreviewVisible>
     <ImageStretch>False</ImageStretch>
-    <ImageExifRotate>True</ImageExifRotate>
     <ImageStretchLargeOnly>False</ImageStretchLargeOnly>
     <ImageCenter>True</ImageCenter>
     <CopyMovePath1/>
@@ -633,8 +708,8 @@
     <TextPosition>0</TextPosition>
   </Viewer>
   <Editor>
-    <EditWaitTime>2000</EditWaitTime>
     <SynEditOptions>856075</SynEditOptions>
+    <EditWaitTime>2000</EditWaitTime>
   </Editor>
   <SyncDirs>
     <Subdirs>False</Subdirs>
@@ -657,66 +732,6 @@
     <OpenSystemWithTerminalStayOpen>False</OpenSystemWithTerminalStayOpen>
     <IncludeFileAssociation>False</IncludeFileAssociation>
   </InternalAssociations>
-  <TreeViewMenu>
-    <UseTVMDirectoryHotlistFMC>False</UseTVMDirectoryHotlistFMC>
-    <UseTVMDirectoryHotlistFDC>False</UseTVMDirectoryHotlistFDC>
-    <UseTVMFavoriteTabsFMC>False</UseTVMFavoriteTabsFMC>
-    <UseTVMFavoriteTabsFDC>False</UseTVMFavoriteTabsFDC>
-    <UseTVMDirHistory>False</UseTVMDirHistory>
-    <UseTVMViewHistory>False</UseTVMViewHistory>
-    <UseTVMCommandLineHistory>False</UseTVMCommandLineHistory>
-    <TreeViewMenuShortcutExit>True</TreeViewMenuShortcutExit>
-    <TreeViewMenuSingleClickExit>True</TreeViewMenuSingleClickExit>
-    <TreeViewMenuDoubleClickExit>True</TreeViewMenuDoubleClickExit>
-    <Context00>
-      <CaseSensitive>False</CaseSensitive>
-      <IgnoreAccents>True</IgnoreAccents>
-      <ShowWholeBranchIfMatch>False</ShowWholeBranchIfMatch>
-    </Context00>
-    <Context01>
-      <CaseSensitive>False</CaseSensitive>
-      <IgnoreAccents>True</IgnoreAccents>
-      <ShowWholeBranchIfMatch>False</ShowWholeBranchIfMatch>
-    </Context01>
-    <Context02>
-      <CaseSensitive>False</CaseSensitive>
-      <IgnoreAccents>True</IgnoreAccents>
-      <ShowWholeBranchIfMatch>False</ShowWholeBranchIfMatch>
-    </Context02>
-    <Context03>
-      <CaseSensitive>False</CaseSensitive>
-      <IgnoreAccents>True</IgnoreAccents>
-      <ShowWholeBranchIfMatch>False</ShowWholeBranchIfMatch>
-    </Context03>
-    <Context04>
-      <CaseSensitive>False</CaseSensitive>
-      <IgnoreAccents>True</IgnoreAccents>
-      <ShowWholeBranchIfMatch>False</ShowWholeBranchIfMatch>
-    </Context04>
-    <Context05>
-      <CaseSensitive>False</CaseSensitive>
-      <IgnoreAccents>True</IgnoreAccents>
-      <ShowWholeBranchIfMatch>False</ShowWholeBranchIfMatch>
-    </Context05>
-    <Context06>
-      <CaseSensitive>False</CaseSensitive>
-      <IgnoreAccents>True</IgnoreAccents>
-      <ShowWholeBranchIfMatch>False</ShowWholeBranchIfMatch>
-    </Context06>
-    <TreeViewMenuUseKeyboardShortcut>True</TreeViewMenuUseKeyboardShortcut>
-    <BackgroundColor>-2147483617</BackgroundColor>
-    <ShortcutColor>255</ShortcutColor>
-    <NormalTextColor>-2147483640</NormalTextColor>
-    <SecondaryTextColor>-2147483642</SecondaryTextColor>
-    <FoundTextColor>-2147483635</FoundTextColor>
-    <UnselectableTextColor>-2147483631</UnselectableTextColor>
-    <CursorColor>-2147483635</CursorColor>
-    <ShortcutUnderCursor>-2147483634</ShortcutUnderCursor>
-    <NormalTextUnderCursor>-2147483634</NormalTextUnderCursor>
-    <SecondaryTextUnderCursor>-2147483628</SecondaryTextUnderCursor>
-    <FoundTextUnderCursor>65535</FoundTextUnderCursor>
-    <UnselectableUnderCursor>-2147483631</UnselectableUnderCursor>
-  </TreeViewMenu>
   <FavoriteTabsOptions>
     <FavoriteTabsUseRestoreExtraOptions>False</FavoriteTabsUseRestoreExtraOptions>
     <WhereToAdd>1</WhereToAdd>
@@ -725,33 +740,24 @@
     <GotoConfigAftReSav>False</GotoConfigAftReSav>
     <DfltLeftGoTo>0</DfltLeftGoTo>
     <DfltRightGoTo>1</DfltRightGoTo>
-    <DfltKeep>-1</DfltKeep>
+    <DfltKeep>5</DfltKeep>
     <DfltSaveDirHistory>False</DfltSaveDirHistory>
-    <FavTabsLastUniqueID>{E0302968-327A-49DE-8681-61173B726EF7}</FavTabsLastUniqueID>
+    <FavTabsLastUniqueID>{FA9C940E-E2D8-41AA-A83C-C8226376C836}</FavTabsLastUniqueID>
   </FavoriteTabsOptions>
   <Lua>
     <PathToLibrary>lua5.1.dll</PathToLibrary>
   </Lua>
   <NameShortcutFile>shortcuts.scf</NameShortcutFile>
-  <HotKeySortOrder>0</HotKeySortOrder>
-  <UseEnterToCloseHotKeyEditor>True</UseEnterToCloseHotKeyEditor>
   <LastUsedPacker>zip</LastUsedPacker>
   <UseShellForFileOperations>True</UseShellForFileOperations>
   <LastDoAnyCommand>cm_Refresh</LastDoAnyCommand>
-  <MarkMaskCaseSensitive>False</MarkMaskCaseSensitive>
-  <MarkMaskIgnoreAccents>False</MarkMaskIgnoreAccents>
-  <MarkMaskFilterWindows>True</MarkMaskFilterWindows>
-  <MarkShowWantedAttribute>False</MarkShowWantedAttribute>
-  <MarkDefaultWantedAttribute/>
-  <MarkLastWantedAttribute/>
   <SearchTemplates/>
   <ColumnsSets DefaultTitleHash="1842925225">
     <ColumnsSet UseFrameCursor="False">
       <Name>Default</Name>
       <CustomView>False</CustomView>
-      <PixelsPerInch>96</PixelsPerInch>
       <CursorBorder Enabled="False">
-        <Color>-2147483635</Color>
+        <Color>0</Color>
       </CursorBorder>
       <Columns>
         <Column>
@@ -761,7 +767,7 @@
           <Align>0</Align>
           <Font>
             <Name>default</Name>
-            <Size>8</Size>
+            <Size>10</Size>
             <Style>1</Style>
             <Quality>0</Quality>
           </Font>
@@ -772,7 +778,7 @@
           <CursorColor>-2147483635</CursorColor>
           <CursorText>-2147483634</CursorText>
           <InactiveCursorColor>-2147483645</InactiveCursorColor>
-          <InactiveMarkColor>255</InactiveMarkColor>
+          <InactiveMarkColor>128</InactiveMarkColor>
           <UseInvertedSelection>False</UseInvertedSelection>
           <UseInactiveSelColor>False</UseInactiveSelColor>
           <Overcolor>True</Overcolor>
@@ -784,7 +790,7 @@
           <Align>0</Align>
           <Font>
             <Name>default</Name>
-            <Size>8</Size>
+            <Size>10</Size>
             <Style>1</Style>
             <Quality>0</Quality>
           </Font>
@@ -795,7 +801,7 @@
           <CursorColor>-2147483635</CursorColor>
           <CursorText>-2147483634</CursorText>
           <InactiveCursorColor>-2147483645</InactiveCursorColor>
-          <InactiveMarkColor>255</InactiveMarkColor>
+          <InactiveMarkColor>128</InactiveMarkColor>
           <UseInvertedSelection>False</UseInvertedSelection>
           <UseInactiveSelColor>False</UseInactiveSelColor>
           <Overcolor>True</Overcolor>
@@ -807,7 +813,7 @@
           <Align>1</Align>
           <Font>
             <Name>default</Name>
-            <Size>8</Size>
+            <Size>10</Size>
             <Style>1</Style>
             <Quality>0</Quality>
           </Font>
@@ -818,7 +824,7 @@
           <CursorColor>-2147483635</CursorColor>
           <CursorText>-2147483634</CursorText>
           <InactiveCursorColor>-2147483645</InactiveCursorColor>
-          <InactiveMarkColor>255</InactiveMarkColor>
+          <InactiveMarkColor>128</InactiveMarkColor>
           <UseInvertedSelection>False</UseInvertedSelection>
           <UseInactiveSelColor>False</UseInactiveSelColor>
           <Overcolor>True</Overcolor>
@@ -830,7 +836,7 @@
           <Align>1</Align>
           <Font>
             <Name>default</Name>
-            <Size>8</Size>
+            <Size>10</Size>
             <Style>1</Style>
             <Quality>0</Quality>
           </Font>
@@ -841,7 +847,7 @@
           <CursorColor>-2147483635</CursorColor>
           <CursorText>-2147483634</CursorText>
           <InactiveCursorColor>-2147483645</InactiveCursorColor>
-          <InactiveMarkColor>255</InactiveMarkColor>
+          <InactiveMarkColor>128</InactiveMarkColor>
           <UseInvertedSelection>False</UseInvertedSelection>
           <UseInactiveSelColor>False</UseInactiveSelColor>
           <Overcolor>True</Overcolor>
@@ -853,7 +859,7 @@
           <Align>0</Align>
           <Font>
             <Name>default</Name>
-            <Size>8</Size>
+            <Size>10</Size>
             <Style>1</Style>
             <Quality>0</Quality>
           </Font>
@@ -864,7 +870,7 @@
           <CursorColor>-2147483635</CursorColor>
           <CursorText>-2147483634</CursorText>
           <InactiveCursorColor>-2147483645</InactiveCursorColor>
-          <InactiveMarkColor>255</InactiveMarkColor>
+          <InactiveMarkColor>128</InactiveMarkColor>
           <UseInvertedSelection>False</UseInvertedSelection>
           <UseInactiveSelColor>False</UseInactiveSelColor>
           <Overcolor>True</Overcolor>
@@ -879,11 +885,6 @@
         <ArchiveExt>zip</ArchiveExt>
         <Path>%commander_path%\plugins\wcx\zip\zip.wcx</Path>
         <Flags>735</Flags>
-      </WcxPlugin>
-      <WcxPlugin Enabled="True">
-        <ArchiveExt>jar</ArchiveExt>
-        <Path>%commander_path%\plugins\wcx\zip\zip.wcx</Path>
-        <Flags>990</Flags>
       </WcxPlugin>
       <WcxPlugin Enabled="True">
         <ArchiveExt>7z</ArchiveExt>
@@ -938,7 +939,7 @@
       <WcxPlugin Enabled="True">
         <ArchiveExt>zipx</ArchiveExt>
         <Path>%commander_path%\plugins\wcx\zip\zip.wcx</Path>
-        <Flags>223</Flags>
+        <Flags>212</Flags>
       </WcxPlugin>
       <WcxPlugin Enabled="True">
         <ArchiveExt>cpio</ArchiveExt>
@@ -1052,11 +1053,6 @@
         <Path>%COMMANDER_PATH%\plugins\wdx\rpm_wdx\rpm_wdx.wdx</Path>
         <DetectString>EXT="RPM"</DetectString>
       </WdxPlugin>
-      <WdxPlugin>
-        <Name>audioinfo</Name>
-        <Path>%COMMANDER_PATH%\plugins\wdx\audioinfo\audioinfo.wdx</Path>
-        <DetectString>(EXT="MP3") | (EXT="MP2") | (EXT="MP1") | (EXT="OGG") | (EXT="WMA") | (EXT="WAV") | (EXT="VQF") | (EXT="AAC") | (EXT="APE") | (EXT="MPC") | (EXT="FLAC") | (EXT="CDA") | (EXT="TTA") | (EXT="AC3") | (EXT="DTS") | (EXT="WV") | (EXT="WVC") | (EXT="OFR") | (EXT="OFS") | (EXT="M4A") | (EXT="MP4")</DetectString>
-      </WdxPlugin>
     </WdxPlugins>
     <WfxPlugins>
       <WfxPlugin Enabled="True">
@@ -1066,4 +1062,14 @@
     </WfxPlugins>
     <WlxPlugins/>
   </Plugins>
+  <MainWindow>
+    <Position>
+      <Maximized>False</Maximized>
+      <Splitter>47,0526864893062</Splitter>
+      <Left>198</Left>
+      <Top>115</Top>
+      <Width>1421</Width>
+      <Height>840</Height>
+    </Position>
+  </MainWindow>
 </doublecmd>
