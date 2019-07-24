@@ -10,7 +10,7 @@ AppSettings/Wallpaper/wallpaper.png
 
 ## IDE
 
-Visual Studio 2017 - https://www.visualstudio.com/pl/downloads/
+Visual Studio 2019 - https://www.visualstudio.com/pl/downloads/
 
 Extensions:
 
@@ -57,6 +57,20 @@ Tortise SVN - https://tortoisesvn.net/downloads.html
 + Greenshot - http://getgreenshot.org/downloads/
 + Cmder - http://cmder.net/ (settings in repo)
 + ~~ComEmu https://www.fosshub.com/ConEmu.html~~
++ AutoHotKey https://www.autohotkey.com/ 
+
+	
+```
+How do I put my hotkeys and hotstrings into effect automatically every time I start my PC?
+
+Find the script file, select it, and press Control+C.
+Press Win+R to open the Run dialog, then enter shell:startup and click OK or Enter. 
+This will open the Startup folder for the current user.
+To instead open the folder for all users, enter shell:common startup
+(however, in that case you must be an administrator to proceed).
+Right click inside the window, and click "Paste Shortcut". The shortcut to the script should now be in the Startup folder.
+
+```
 
 ## Developer programs
 
