@@ -71,6 +71,7 @@ To instead open the folder for all users, enter shell:common startup
 Right click inside the window, and click "Paste Shortcut". The shortcut to the script should now be in the Startup folder.
 
 ```
++ SpaceSniffer - http://www.uderzo.it/main_products/space_sniffer/
 
 ## Developer programs
 
