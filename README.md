@@ -72,6 +72,7 @@ Right click inside the window, and click "Paste Shortcut". The shortcut to the s
 
 ```
 + SpaceSniffer - http://www.uderzo.it/main_products/space_sniffer/
++ PanDoc(uniwersal document converter for MD documentation list) -  https://pandoc.org/ 
 
 ## Developer programs
 
