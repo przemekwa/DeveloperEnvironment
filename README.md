@@ -10,7 +10,7 @@ AppSettings/Wallpaper/wallpaper.png
 
 ## IDE
 
-Visual Studio 2019 - https://www.visualstudio.com/pl/downloads/
+Visual Studio 2019 - Enterprise  - https://visualstudio.microsoft.com/pl/thank-you-downloading-visual-studio/?sku=Enterprise&rel=16
 
 Extensions:
 
@@ -22,7 +22,7 @@ Extensions:
 
 ## Databases
 
-SQL Express - https://www.microsoft.com/pl-pl/sql-server/sql-server-editions-express
+SQL Developer - https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads
 
 ## Code repositories
 
